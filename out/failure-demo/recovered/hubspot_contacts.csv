@@ -1,0 +1,231 @@
+First Name,Last Name,Email,Phone Number,Company Name,Lead Status,Contact owner,Job Title,Country/Region
+Leila,Ramsay,leila.ramsay@thistlebrook-media.co.uk,+447700900795,Thistlebrook Media Ltd,Open,amelia.hart@northbeam.example,Head of Sales,United Kingdom
+Maeve,Iversen,maeve.iversen@rookhurst-engineering.com,+13125550103,Rookhurst Engineering,New,maya.brooks@northbeam.example,Analyst,United States
+Dmitri,Carvalho,dmitri.carvalho@rookhurst-systems.at,,Rookhurst Systems,New,lena.vogel@northbeam.example,Team Lead,Austria
+Mila,Kowalski,mila.kowalski@brightfold-labs.com.sg,+6565722738,Brightfold Labs Pte Ltd,New,amelia.hart@northbeam.example,Engineer,Singapore
+Amara,Hargreaves,amara.hargreaves@hazelmere-analytics.co.uk,+447700900404,Hazelmere Analytics Limited,New,owen.price@northbeam.example,Marketing Manager,United Kingdom
+Ada,Ellison,ada.ellison@cindervale-labs.fr,,Cindervale Labs SA,New,lena.vogel@northbeam.example,Analyst,France
+Noah,Mbeki,noah.mbeki@rookhurst-health.co.uk,+447700900148,Rookhurst Health,New,amelia.hart@northbeam.example,Managing Director,United Kingdom
+Jonas,Hargreaves,jonas.hargreaves@pebblewick-labs.com,+14155550112,Pebblewick Labs Inc,Open,ethan.cole@northbeam.example,CEO,United States
+Esme,Ellison,esme.ellison@lanternby-foods.co.uk,+447700900659,Lanternby Foods PLC,New,owen.price@northbeam.example,Analyst,United Kingdom
+Julian,Castellano,julian.castellano@kilnworth-partners.ca,+16045550120,Kilnworth Partners Inc,New,sofia.reyes@northbeam.example,Head of Sales,Canada
+Noah,Patel,noah.patel@rookhurst-systems.at,+4316609662,Rookhurst Systems GmbH,New,lena.vogel@northbeam.example,Team Lead,Austria
+Ruth,Gallagher,ruth.gallagher@glasswing-engineering.ie,+35317958780,Glasswing Engineering Ltd,Open,amelia.hart@northbeam.example,CEO,Ireland
+Daniel,Maddox,daniel.maddox@hazelmere-engineering.co.uk,+447700900617,Hazelmere Engineering,Open,owen.price@northbeam.example,Director of Operations,United Kingdom
+Carmen,Mbeki,carmen.mbeki@marrowby-labs.com.au,+61266400153,Marrowby Labs Pty Ltd,New,maya.brooks@northbeam.example,Procurement Specialist,Australia
+Hannah,Oyelaran,hannah.oyelaran@pebblewick-robotics.ie,+35311811470,Pebblewick Robotics Limited,New,amelia.hart@northbeam.example,Student,Ireland
+Amara,Castellano,amara.castellano@rookhurst-systems.at,+4314905777,Rookhurst Systems GmbH,New,lena.vogel@northbeam.example,Office Administrator,Austria
+Carmen,Prescott,carmen.prescott@duskmoor-logistics.de,+493023868928,Duskmoor Logistics AG,New,jonas.keller@northbeam.example,Marketing Manager,Germany
+Lucas,Fairbairn,lucas.fairbairn@pebblewick-labs.com,+12125550175,Pebblewick Labs Inc,New,ethan.cole@northbeam.example,Office Administrator,United States
+Mila,Kaplan,mila.kaplan@gorsefield-energy.com,+13125550196,Gorsefield Energy,New,maya.brooks@northbeam.example,Marketing Manager,United States
+Ada,Ramsay,ada.ramsay@pebblewick-robotics.ie,+35312410665,Pebblewick Robotics,Open,amelia.hart@northbeam.example,Managing Director,Ireland
+Freya,Thornbury,freya.thornbury@harbourline-health.co.uk,+447700900146,Harbourline Health Limited,New,owen.price@northbeam.example,Team Lead,United Kingdom
+Stefan,Vasquez,stefan.vasquez@nettlecombe-analytics.co.uk,+447700900031,Nettlecombe Analytics,New,amelia.hart@northbeam.example,Office Administrator,United Kingdom
+Stefan,Holloway,stefan.holloway@kilnworth-partners.ca,+16045550121,Kilnworth Partners,Open,sofia.reyes@northbeam.example,CEO,Canada
+Kofi,Winterbottom,kofi.winterbottom@wrenford-analytics.ca,+15145550113,Wrenford Analytics,New,ethan.cole@northbeam.example,Consultant,Canada
+Theo,Brandt,theo.brandt@harbourline-logistics.com,+16175550163,Harbourline Logistics Inc,New,sofia.reyes@northbeam.example,Marketing Manager,United States
+Leon,Kaplan,leon.kaplan@rookhurst-engineering.com,,Rookhurst Engineering Inc,New,maya.brooks@northbeam.example,Procurement Specialist,United States
+Oscar,Holloway,oscar.holloway@ashgrove-health.co.uk,,Ashgrove Health Limited,New,owen.price@northbeam.example,Office Administrator,United Kingdom
+Ethan,Hargreaves,ethan.hargreaves@harbourline-media.co.uk,+447700900272,Harbourline Media,New,amelia.hart@northbeam.example,Analyst,United Kingdom
+Fiona,Huber,fiona.huber@fernhollow-energy.co.uk,,Fernhollow Energy PLC,New,owen.price@northbeam.example,Engineer,United Kingdom
+Liam,Quigley,liam.quigley@kestrelmoor-labs.at,,Kestrelmoor Labs,New,lena.vogel@northbeam.example,Head of Sales,Austria
+Saoirse,Jablonski,saoirse.jablonski@fernhollow-advisory.com.au,+61259151627,Fernhollow Advisory Pty Ltd,New,amelia.hart@northbeam.example,Student,Australia
+Liam,Winterbottom,liam.winterbottom@rookhurst-health.co.uk,+447700900715,Rookhurst Health,New,amelia.hart@northbeam.example,Marketing Manager,United Kingdom
+Sven,Lindqvist,sven.lindqvist@duskmoor-analytics.de,+493085145272,Duskmoor Analytics,New,jonas.keller@northbeam.example,Team Lead,Germany
+Kofi,Thornbury,kofi.thornbury@marrowby-logistics.co.uk,+447700900436,Marrowby Logistics Ltd,New,amelia.hart@northbeam.example,Consultant,United Kingdom
+Tobias,Schreiber,tobias.schreiber@fernhollow-robotics.com.au,+61234497876,Fernhollow Robotics Pty Ltd,New,lena.vogel@northbeam.example,Operations Manager,Australia
+Carmen,Eriksen,carmen.eriksen@hazelmere-engineering.co.uk,+447700900088,Hazelmere Engineering,Open,owen.price@northbeam.example,Team Lead,United Kingdom
+Mila,Jablonski,mila.jablonski@harbourline-logistics.com,,Harbourline Logistics,New,sofia.reyes@northbeam.example,Office Administrator,United States
+Fiona,Moreau,fiona.moreau@tidewell-labs.nl,,Tidewell Labs BV,New,maya.brooks@northbeam.example,Office Administrator,Netherlands
+Sven,Takahashi,sven.takahashi@quillfield-engineering.ca,+15145550105,Quillfield Engineering Ltd,New,maya.brooks@northbeam.example,Head of Sales,Canada
+Esme,Holloway,esme.holloway@pebblewick-labs.com,+12125550136,Pebblewick Labs Inc,New,ethan.cole@northbeam.example,Operations Manager,United States
+Ines,Ramsay,ines.ramsay@wrenford-health.co.uk,+447700900798,Wrenford Health,New,owen.price@northbeam.example,Engineer,United Kingdom
+Freya,Fitzgerald,freya.fitzgerald@duskmoor-software.ch,+41446252808,Duskmoor Software,New,lena.vogel@northbeam.example,Engineer,Switzerland
+Fiona,Huber,fiona.huber@duskmoor-software.ch,+41444587195,Duskmoor Software,Open,lena.vogel@northbeam.example,Head of Sales,Switzerland
+Zara,Fairbairn,zara.fairbairn@embervale-energy.com,+13035550117,Embervale Energy,Open,ethan.cole@northbeam.example,Head of Sales,United States
+Hannah,Lindqvist,hannah.lindqvist@juniperhill-analytics.com,+16465550156,Juniperhill Analytics,New,sofia.reyes@northbeam.example,Operations Manager,United States
+Theo,Kaplan,theo.kaplan@hazelmere-engineering.co.uk,+447700900502,Hazelmere Engineering Limited,New,owen.price@northbeam.example,Managing Director,United Kingdom
+Rosa,Stirling,rosa.stirling@ironbark-labs.ca,+16045550114,Ironbark Labs Ltd,New,maya.brooks@northbeam.example,Office Administrator,Canada
+Olivia,Eriksen,olivia.eriksen@ashgrove-health.co.uk,+447700900965,Ashgrove Health Limited,New,owen.price@northbeam.example,Operations Manager,United Kingdom
+Kofi,Thornbury,kofi.thornbury@foxlowe-systems.de,+493036330116,Foxlowe Systems AG,New,jonas.keller@northbeam.example,Operations Manager,Germany
+Fiona,Stirling,fiona.stirling@thistlebrook-media.co.uk,+447700900736,Thistlebrook Media Ltd,New,amelia.hart@northbeam.example,Engineer,United Kingdom
+Bruno,Yilmaz,bruno.yilmaz@bramblecot-analytics.co.uk,+447700900445,Bramblecot Analytics Ltd,Open,amelia.hart@northbeam.example,Chief Financial Officer,United Kingdom
+Fiona,Underhill,fiona.underhill@marrowby-labs.com.au,+61227747067,Marrowby Labs Pty Ltd,New,maya.brooks@northbeam.example,Consultant,Australia
+Rosa,Rasmussen,rosa.rasmussen@nettlecombe-analytics.co.uk,+447700900050,Nettlecombe Analytics Limited,New,amelia.hart@northbeam.example,CEO,United Kingdom
+Maeve,Delacroix,maeve.delacroix@yarrowdale-health.ch,+41443815503,Yarrowdale Health,New,lena.vogel@northbeam.example,Procurement Specialist,Switzerland
+Zara,Lockhart,zara.lockhart@harbourline-logistics.com,+16465550146,Harbourline Logistics Inc,New,sofia.reyes@northbeam.example,Team Lead,United States
+Samuel,Donnelly,samuel.donnelly@hazelmere-logistics.ca,+14165550180,Hazelmere Logistics Inc,New,ethan.cole@northbeam.example,Marketing Manager,Canada
+Leila,Gallagher,leila.gallagher@bramblecot-analytics.co.uk,,Bramblecot Analytics Ltd,New,amelia.hart@northbeam.example,Marketing Manager,United Kingdom
+Ada,Kowalski,ada.kowalski@cindervale-labs.fr,+33144587275,Cindervale Labs SA,New,lena.vogel@northbeam.example,Student,France
+Esme,O'Donnell,esme.odonnell@pebblewick-labs.com,+13125550182,Pebblewick Labs Inc,New,ethan.cole@northbeam.example,Managing Director,United States
+Tobias,Ashworth,tobias.ashworth@copperleaf-engineering.co.uk,+447700900573,Copperleaf Engineering,Open,owen.price@northbeam.example,Marketing Manager,United Kingdom
+Freya,Van der Berg,freya.vanderberg@saltmarsh-robotics.de,,Saltmarsh Robotics AG,New,jonas.keller@northbeam.example,Analyst,Germany
+Samuel,Vasquez,samuel.vasquez@rookhurst-systems.at,+4311988405,Rookhurst Systems GmbH,New,lena.vogel@northbeam.example,Chief Financial Officer,Austria
+Grace,Huber,grace.huber@tidewell-media.at,+4316628278,Tidewell Media GmbH,New,lena.vogel@northbeam.example,Operations Manager,Austria
+Ivy,Ramsay,ivy.ramsay@juniperhill-engineering.com,+16465550173,Juniperhill Engineering Inc,New,sofia.reyes@northbeam.example,Office Administrator,United States
+Mateo,Patel,mateo.patel@wrenford-health.co.uk,+447700900045,Wrenford Health Limited,New,owen.price@northbeam.example,Team Lead,United Kingdom
+Imogen,Quigley,imogen.quigley@copperleaf-engineering.co.uk,,Copperleaf Engineering,Open,owen.price@northbeam.example,Managing Director,United Kingdom
+Tobias,Brennan,tobias.brennan@bramblecot-analytics.co.uk,+447700900794,Bramblecot Analytics Ltd,New,amelia.hart@northbeam.example,Consultant,United Kingdom
+Ada,Whitfield,ada.whitfield@fernhollow-energy.co.uk,+447700900908,Fernhollow Energy PLC,New,owen.price@northbeam.example,Head of Sales,United Kingdom
+Dmitri,Maddox,dmitri.maddox@hazelmere-logistics.ca,+14165550101,Hazelmere Logistics Inc,New,ethan.cole@northbeam.example,Analyst,Canada
+Imogen,Holloway,imogen.holloway@foxlowe-energy.com,,Foxlowe Energy,New,maya.brooks@northbeam.example,Consultant,United States
+Yuki,Brennan,yuki.brennan@cindervale-analytics.com,+13125550153,Cindervale Analytics Inc,New,ethan.cole@northbeam.example,CEO,United States
+Isla,Castellano,isla.castellano@mossgate-health.ca,+15145550175,Mossgate Health,New,sofia.reyes@northbeam.example,Marketing Manager,Canada
+Saoirse,Pemberton,saoirse.pemberton@yarrowdale-health.ch,,Yarrowdale Health,New,lena.vogel@northbeam.example,Director of Operations,Switzerland
+Declan,Carvalho,declan.carvalho@bramblecot-analytics.co.uk,+447700900862,Bramblecot Analytics Ltd,New,amelia.hart@northbeam.example,Student,United Kingdom
+Priya,Novak,priya.novak@tidewell-labs.nl,+31205450549,Tidewell Labs BV,New,maya.brooks@northbeam.example,Engineer,Netherlands
+Elena,Delacroix,elena.delacroix@lowmeadow-systems.com,,Lowmeadow Systems,New,maya.brooks@northbeam.example,Office Administrator,United States
+Ethan,Brennan,ethan.brennan@quillfield-engineering.ca,+15145550147,Quillfield Engineering Ltd,New,maya.brooks@northbeam.example,Director of Operations,Canada
+Lucas,Lindqvist,lucas.lindqvist@kestrelmoor-labs.at,+4312319611,Kestrelmoor Labs GmbH,New,lena.vogel@northbeam.example,Consultant,Austria
+Mateo,Oyelaran,mateo.oyelaran@inkwater-logistics.co.uk,+447700900235,Inkwater Logistics Ltd,New,amelia.hart@northbeam.example,VP Marketing,United Kingdom
+Aoife,Vasquez,aoife.vasquez@harbourline-media.co.uk,+447700900734,Harbourline Media Ltd,New,amelia.hart@northbeam.example,Director of Operations,United Kingdom
+Declan,Kaplan,declan.kaplan@pebblewick-robotics.ie,+35313602949,Pebblewick Robotics,New,amelia.hart@northbeam.example,Engineer,Ireland
+Katarina,Castellano,katarina.castellano@copperleaf-engineering.co.uk,+447700900813,Copperleaf Engineering,New,owen.price@northbeam.example,Procurement Specialist,United Kingdom
+Hannah,Takahashi,hannah.takahashi@mossgate-health.ca,+14165550107,Mossgate Health,Open,sofia.reyes@northbeam.example,Chief Financial Officer,Canada
+Katarina,Novak,katarina.novak@pebblewick-logistics.com,,Pebblewick Logistics LLC,New,ethan.cole@northbeam.example,Operations Manager,United States
+Mila,Schreiber,mila.schreiber@foxlowe-energy.com,,Foxlowe Energy,New,maya.brooks@northbeam.example,Analyst,United States
+Dmitri,Fairbairn,dmitri.fairbairn@embervale-energy.com,+14155550123,Embervale Energy Inc,New,ethan.cole@northbeam.example,Consultant,United States
+Olivia,Hargreaves,olivia.hargreaves@lanternby-foods.co.uk,,Lanternby Foods,New,owen.price@northbeam.example,CEO,United Kingdom
+Ethan,Brennan,ethan.brennan@foxlowe-energy.com,,Foxlowe Energy,New,maya.brooks@northbeam.example,Procurement Specialist,United States
+Lena,Fairbairn,lena.fairbairn@bramblecot-analytics.co.uk,+447700900306,Bramblecot Analytics Ltd,New,amelia.hart@northbeam.example,Engineer,United Kingdom
+Daniel,Kowalski,daniel.kowalski@foxlowe-systems.de,+493052779106,Foxlowe Systems AG,New,jonas.keller@northbeam.example,Marketing Manager,Germany
+Julian,Nakamura,julian.nakamura@copperleaf-software.de,+493035019745,Copperleaf Software,New,jonas.keller@northbeam.example,Managing Director,Germany
+Bruno,Mbeki,bruno.mbeki@larkspire-energy.at,+4311189963,Larkspire Energy,New,lena.vogel@northbeam.example,Consultant,Austria
+Kofi,Holloway,kofi.holloway@hazelmere-partners.com.au,+61224578092,Hazelmere Partners Pty Ltd,New,amelia.hart@northbeam.example,Office Administrator,Australia
+Patrick,Yilmaz,patrick.yilmaz@kilnworth-engineering.co.uk,+447700900443,Kilnworth Engineering,New,owen.price@northbeam.example,Founder,United Kingdom
+Noah,Schreiber,noah.schreiber@umberfield-energy.at,,Umberfield Energy,New,jonas.keller@northbeam.example,Director of Operations,Austria
+Rosa,Lindqvist,rosa.lindqvist@hazelmere-partners.com.au,+61246865562,Hazelmere Partners,New,amelia.hart@northbeam.example,Student,Australia
+Nora,Oyelaran,nora.oyelaran@mossgate-health.ca,+16045550190,Mossgate Health Inc,Open,sofia.reyes@northbeam.example,Procurement Specialist,Canada
+Bruno,Brennan,bruno.brennan@wrenford-health.co.uk,+447700900247,Wrenford Health Limited,New,owen.price@northbeam.example,Engineer,United Kingdom
+Zara,Yilmaz,zara.yilmaz@pebblewick-robotics.ie,+35311986705,Pebblewick Robotics Limited,New,amelia.hart@northbeam.example,Analyst,Ireland
+Priya,Huber,priya.huber@harbourline-media.co.uk,,Harbourline Media,New,amelia.hart@northbeam.example,Procurement Specialist,United Kingdom
+Nora,Yilmaz,nora.yilmaz@duskmoor-media.com,+14155550184,Duskmoor Media,New,sofia.reyes@northbeam.example,Engineer,United States
+Elena,Schreiber,elena.schreiber@duskmoor-software.ch,+41447783826,Duskmoor Software,New,lena.vogel@northbeam.example,Team Lead,Switzerland
+Clara,Novak,clara.novak@kestrelmoor-retail.co.uk,+447700900464,Kestrelmoor Retail Limited,New,amelia.hart@northbeam.example,CEO,United Kingdom
+Mateo,Delacroix,mateo.delacroix@tidewell-labs.nl,,Tidewell Labs,New,maya.brooks@northbeam.example,Operations Manager,Netherlands
+Jonas,Oyelaran,jonas.oyelaran@harbourline-health.co.uk,,Harbourline Health Limited,New,owen.price@northbeam.example,Consultant,United Kingdom
+Stefan,Holloway,stefan.holloway@harbourline-health.co.uk,+447700900001,Harbourline Health Limited,New,owen.price@northbeam.example,Student,United Kingdom
+Liam,Okafor,liam.okafor@hazelmere-logistics.ca,+16045550196,Hazelmere Logistics Inc,New,ethan.cole@northbeam.example,Marketing Manager,Canada
+Oscar,Prescott,oscar.prescott@saltmarsh-robotics.de,+493050139208,Saltmarsh Robotics AG,New,jonas.keller@northbeam.example,Analyst,Germany
+Ivy,Schreiber,ivy.schreiber@harbourline-logistics.com,+12125550120,Harbourline Logistics Inc,New,sofia.reyes@northbeam.example,Operations Manager,United States
+Samuel,Van der Berg,samuel.vanderberg@duskmoor-analytics.de,+493028882553,Duskmoor Analytics,New,jonas.keller@northbeam.example,Operations Manager,Germany
+Rafael,Schreiber,rafael.schreiber@cindervale-labs.fr,+33193988771,Cindervale Labs SA,New,lena.vogel@northbeam.example,VP Marketing,France
+Declan,Van der Berg,declan.vanderberg@larkspire-partners.co.uk,+447700900082,Larkspire Partners,New,owen.price@northbeam.example,Marketing Manager,United Kingdom
+Felix,Kowalski,felix.kowalski@lowmeadow-systems.com,+13035550154,Lowmeadow Systems Inc.,New,maya.brooks@northbeam.example,Engineer,United States
+Arjun,Carvalho,arjun.carvalho@lanternby-foods.co.uk,,Lanternby Foods,New,owen.price@northbeam.example,Director of Operations,United Kingdom
+Leon,Huber,leon.huber@kestrelmoor-analytics.co.uk,+447700900329,Kestrelmoor Analytics PLC,New,amelia.hart@northbeam.example,Marketing Manager,United Kingdom
+Ethan,Winterbottom,ethan.winterbottom@duskmoor-software.ch,+41449139787,Duskmoor Software GmbH,New,lena.vogel@northbeam.example,Operations Manager,Switzerland
+Oscar,Hargreaves,oscar.hargreaves@embervale-partners.fr,+33179564123,Embervale Partners,New,lena.vogel@northbeam.example,Team Lead,France
+Ethan,Vasquez,ethan.vasquez@hazelmere-logistics.ca,,Hazelmere Logistics Inc,New,ethan.cole@northbeam.example,Consultant,Canada
+Rohan,Delacroix,rohan.delacroix@harbourline-health.co.uk,+447700900964,Harbourline Health,New,owen.price@northbeam.example,Procurement Specialist,United Kingdom
+Liam,Gallagher,liam.gallagher@hazelmere-engineering.co.uk,+447700900984,Hazelmere Engineering,Open,owen.price@northbeam.example,Founder,United Kingdom
+Ada,Moreau,ada.moreau@nettlecombe-logistics.de,,Nettlecombe Logistics GmbH,New,lena.vogel@northbeam.example,Head of Sales,Germany
+Liam,Takahashi,liam.takahashi@foxlowe-energy.com,+13125550116,Foxlowe Energy,New,maya.brooks@northbeam.example,Engineer,United States
+Isla,Rasmussen,isla.rasmussen@ironbark-labs.ca,,Ironbark Labs,Open,maya.brooks@northbeam.example,CEO,Canada
+Declan,Jablonski,declan.jablonski@rookhurst-health.co.uk,,Rookhurst Health,Open,amelia.hart@northbeam.example,Director of Operations,United Kingdom
+Fiona,Okafor,fiona.okafor@foxlowe-energy.com,+16465550157,Foxlowe Energy Inc.,New,maya.brooks@northbeam.example,Consultant,United States
+Jonas,Rasmussen,jonas.rasmussen@yarrowdale-health.ch,+41447604888,Yarrowdale Health GmbH,New,lena.vogel@northbeam.example,Office Administrator,Switzerland
+Dmitri,Castellano,dmitri.castellano@marrowby-media.com.au,+61247038921,Marrowby Media Pty Ltd,New,maya.brooks@northbeam.example,Consultant,Australia
+Priya,Ellison,priya.ellison@fernhollow-robotics.com.au,+61297469364,Fernhollow Robotics Pty Ltd,New,lena.vogel@northbeam.example,Consultant,Australia
+Ada,Oyelaran,ada.oyelaran@foxlowe-systems.de,+493045291213,Foxlowe Systems AG,New,jonas.keller@northbeam.example,Operations Manager,Germany
+Katarina,Ramsay,katarina.ramsay@kilnworth-engineering.co.uk,+447700900405,Kilnworth Engineering PLC,New,owen.price@northbeam.example,Director of Operations,United Kingdom
+Stefan,Mbeki,stefan.mbeki@larkspire-energy.at,,Larkspire Energy,New,lena.vogel@northbeam.example,VP Marketing,Austria
+Viktor,Patel,viktor.patel@hazelmere-partners.com.au,+61214596239,Hazelmere Partners Pty Ltd,New,amelia.hart@northbeam.example,Engineer,Australia
+Freya,Vasquez,freya.vasquez@embervale-health.co.uk,+447700900130,Embervale Health,New,owen.price@northbeam.example,Office Administrator,United Kingdom
+Grace,Donnelly,grace.donnelly@nettlecombe-analytics.co.uk,+447700900305,Nettlecombe Analytics Limited,New,amelia.hart@northbeam.example,VP Marketing,United Kingdom
+Hannah,Eriksen,hannah.eriksen@brightfold-labs.com.sg,+6567444063,Brightfold Labs Pte Ltd,New,amelia.hart@northbeam.example,Managing Director,Singapore
+Imogen,Van der Berg,imogen.vanderberg@hazelmere-partners.com.au,+61279342811,Hazelmere Partners,Open,amelia.hart@northbeam.example,Managing Director,Australia
+Freya,Moreau,freya.moreau@brightfold-labs.com.sg,+6568210957,Brightfold Labs Pte Ltd,New,amelia.hart@northbeam.example,Chief Financial Officer,Singapore
+Henrik,Delacroix,henrik.delacroix@thistlebrook-media.co.uk,+447700900746,Thistlebrook Media,New,amelia.hart@northbeam.example,CEO,United Kingdom
+Patrick,Takahashi,patrick.takahashi@yarrowdale-advisory.ie,+35313124334,Yarrowdale Advisory Ltd,New,amelia.hart@northbeam.example,Consultant,Ireland
+Samuel,Achterberg,samuel.achterberg@kilnworth-engineering.co.uk,+447700900860,Kilnworth Engineering,New,owen.price@northbeam.example,Procurement Specialist,United Kingdom
+Stefan,Okafor,stefan.okafor@harbourline-logistics.com,+13035550185,Harbourline Logistics,New,sofia.reyes@northbeam.example,Head of Sales,United States
+Gareth,Lindqvist,gareth.lindqvist@harbourline-logistics.com,+12125550113,Harbourline Logistics Inc,New,sofia.reyes@northbeam.example,Marketing Manager,United States
+Hugo,Nakamura,hugo.nakamura@quillfield-engineering.ca,,Quillfield Engineering,New,maya.brooks@northbeam.example,Engineer,Canada
+Isla,Fairbairn,isla.fairbairn@yarrowdale-health.ch,+41441357882,Yarrowdale Health,New,lena.vogel@northbeam.example,CEO,Switzerland
+Ethan,Lockhart,ethan.lockhart@nettlecombe-logistics.de,+493050773472,Nettlecombe Logistics GmbH,New,lena.vogel@northbeam.example,Marketing Manager,Germany
+Ada,Patel,ada.patel@pebblewick-labs.com,+16175550199,Pebblewick Labs Inc,New,ethan.cole@northbeam.example,Student,United States
+Rohan,Lindqvist,rohan.lindqvist@pebblewick-labs.com,(212) 555-0151,Pebblewick Labs Inc,New,ethan.cole@northbeam.example,Consultant,
+Samuel,Iversen,samuel.iversen@saltmarsh-robotics.de,+493053184072,Saltmarsh Robotics AG,New,jonas.keller@northbeam.example,Head of Sales,Germany
+Ines,Grunewald,ines.grunewald@cindervale-labs.fr,+33183419072,Cindervale Labs,New,lena.vogel@northbeam.example,Engineer,France
+Viktor,Novak,viktor.novak@juniperhill-engineering.com,+16175550110,Juniperhill Engineering Inc,New,sofia.reyes@northbeam.example,Team Lead,United States
+Carmen,Eriksen,carmen.eriksen@duskmoor-software.ch,+41441088715,Duskmoor Software GmbH,New,lena.vogel@northbeam.example,Office Administrator,Switzerland
+Ruth,Ashworth,ruth.ashworth@larkspire-robotics.at,+4318347994,Larkspire Robotics,Open,jonas.keller@northbeam.example,Head of Sales,Austria
+Theo,Prescott,theo.prescott@harbourline-media.co.uk,+447700900775,Harbourline Media,Open,amelia.hart@northbeam.example,Analyst,United Kingdom
+Kofi,Fitzgerald,kofi.fitzgerald@ironbark-media.ca,+15145550171,Ironbark Media Ltd,New,maya.brooks@northbeam.example,Procurement Specialist,Canada
+Zara,Castellano,zara.castellano@yarrowdale-advisory.ie,+35317265134,Yarrowdale Advisory Ltd,New,amelia.hart@northbeam.example,Managing Director,Ireland
+Priya,McAllister,priya.mcallister@rookhurst-engineering.com,+13125550169,Rookhurst Engineering,Open,maya.brooks@northbeam.example,Marketing Manager,United States
+Lucas,Delacroix,lucas.delacroix@yarrowdale-advisory.ie,+35317508331,Yarrowdale Advisory,New,amelia.hart@northbeam.example,Engineer,Ireland
+Maeve,Quigley,maeve.quigley@saltmarsh-robotics.de,,Saltmarsh Robotics,Open,jonas.keller@northbeam.example,Director of Operations,Germany
+Oscar,Ellison,oscar.ellison@fernhollow-advisory.com.au,+61283836852,Fernhollow Advisory,New,amelia.hart@northbeam.example,Managing Director,Australia
+Daniel,Brennan,daniel.brennan@wrenford-health.co.uk,+447700900467,Wrenford Health Limited,New,owen.price@northbeam.example,Engineer,United Kingdom
+Nora,Carvalho,nora.carvalho@hazelmere-logistics.ca,,Hazelmere Logistics,New,ethan.cole@northbeam.example,Procurement Specialist,Canada
+Esme,O'Donnell,esme.odonnell@larkspire-energy.at,+4316165426,Larkspire Energy GmbH,New,lena.vogel@northbeam.example,Team Lead,Austria
+Arjun,Iversen,arjun.iversen@quillfield-media.co.uk,+447700900070,Quillfield Media,New,owen.price@northbeam.example,Operations Manager,United Kingdom
+Daniel,Carvalho,daniel.carvalho@kestrelmoor-retail.co.uk,+447700900314,Kestrelmoor Retail,New,amelia.hart@northbeam.example,Consultant,United Kingdom
+Ethan,Ellison,ethan.ellison@hazelmere-logistics.ca,+16045550177,Hazelmere Logistics,New,ethan.cole@northbeam.example,Team Lead,Canada
+Hannah,Grunewald,hannah.grunewald@nettlecombe-energy.de,+493027036618,Nettlecombe Energy GmbH,New,lena.vogel@northbeam.example,Operations Manager,Germany
+Liam,Stirling,liam.stirling@pebblewick-robotics.ie,,Pebblewick Robotics,New,amelia.hart@northbeam.example,Engineer,Ireland
+Oscar,Delacroix,oscar.delacroix@oakhaven-software.ie,+35318893380,Oakhaven Software Limited,New,amelia.hart@northbeam.example,Operations Manager,Ireland
+Grace,Trevelyan,grace.trevelyan@lanternby-energy.com,+13035550180,Lanternby Energy,New,ethan.cole@northbeam.example,CEO,United States
+Rohan,Vasquez,rohan.vasquez@embervale-health.co.uk,+447700900887,Embervale Health,New,owen.price@northbeam.example,Office Administrator,United Kingdom
+Lena,Donnelly,lena.donnelly@hazelmere-engineering.co.uk,+447700900454,Hazelmere Engineering Limited,New,owen.price@northbeam.example,Head of Sales,United Kingdom
+Henrik,Fitzgerald,henrik.fitzgerald@umberfield-engineering.ie,+35313976884,Umberfield Engineering,New,owen.price@northbeam.example,Analyst,Ireland
+Katarina,Huber,katarina.huber@ironbark-labs.ca,+14165550106,Ironbark Labs,New,maya.brooks@northbeam.example,Procurement Specialist,Canada
+Declan,Prescott,declan.prescott@kestrelmoor-retail.co.uk,+447700900328,Kestrelmoor Retail,New,amelia.hart@northbeam.example,Consultant,United Kingdom
+Niamh,Sorensen,niamh.sorensen@yarrowdale-health.ch,+41446921591,Yarrowdale Health,New,lena.vogel@northbeam.example,Engineer,Switzerland
+Leon,Kowalski,leon.kowalski@tidewell-media.at,+4318535150,Tidewell Media,New,lena.vogel@northbeam.example,Head of Sales,Austria
+Mila,McAllister,mila.mcallister@quillfield-media.co.uk,+447700900522,Quillfield Media,New,owen.price@northbeam.example,Team Lead,United Kingdom
+Nora,Lindqvist,nora.lindqvist@kilnworth-partners.ca,,Kilnworth Partners Inc,New,sofia.reyes@northbeam.example,Operations Manager,Canada
+Rosa,Novak,rosa.novak@foxlowe-energy.com,+13125550164,Foxlowe Energy Inc,New,maya.brooks@northbeam.example,Analyst,United States
+Hugo,Schreiber,hugo.schreiber@foxlowe-energy.com,+16175550103,Foxlowe Energy Inc.,New,maya.brooks@northbeam.example,Director of Operations,United States
+Theo,Holloway,theo.holloway@foxlowe-systems.de,+493073513060,Foxlowe Systems AG,New,jonas.keller@northbeam.example,Head of Sales,Germany
+Ruth,Nakamura,ruth.nakamura@cindervale-analytics.com,+13035550142,Cindervale Analytics,New,ethan.cole@northbeam.example,Operations Manager,United States
+Liam,Gallagher,liam.gallagher@lowmeadow-systems.com,+14155550129,Lowmeadow Systems,New,maya.brooks@northbeam.example,Procurement Specialist,United States
+Zara,O'Donnell,zara.odonnell@glasswing-engineering.ie,+35314426972,Glasswing Engineering,New,amelia.hart@northbeam.example,Founder,Ireland
+Hugo,Delacroix,hugo.delacroix@umberfield-engineering.ie,+35319043507,Umberfield Engineering,New,owen.price@northbeam.example,Director of Operations,Ireland
+Rafael,Ashworth,rafael.ashworth@harbourline-health.co.uk,+447700900304,Harbourline Health,New,owen.price@northbeam.example,Chief Financial Officer,United Kingdom
+Rosa,Holloway,rosa.holloway@bramblecot-analytics.co.uk,+447700900000,Bramblecot Analytics,New,amelia.hart@northbeam.example,Consultant,United Kingdom
+Carmen,Ramsay,carmen.ramsay@tidewell-labs.nl,+31205301714,Tidewell Labs BV,New,maya.brooks@northbeam.example,Head of Sales,Netherlands
+Sven,O'Donnell,sven.odonnell@lowmeadow-systems.com,+13035550163,Lowmeadow Systems Inc,New,maya.brooks@northbeam.example,Operations Manager,United States
+Leon,Ellison,leon.ellison@duskmoor-media.com,+14155550110,Duskmoor Media Inc,New,sofia.reyes@northbeam.example,Analyst,United States
+Viktor,Lindqvist,viktor.lindqvist@duskmoor-software.ch,,Duskmoor Software GmbH,New,lena.vogel@northbeam.example,Analyst,Switzerland
+Marcus,Takahashi,marcus.takahashi@saltmarsh-robotics.de,+493089642262,Saltmarsh Robotics AG,New,jonas.keller@northbeam.example,Founder,Germany
+Yuki,Jablonski,yuki.jablonski@larkspire-partners.co.uk,+447700900118,Larkspire Partners,New,owen.price@northbeam.example,Director of Operations,United Kingdom
+Hannah,McAllister,hannah.mcallister@oakhaven-software.ie,+35314008884,Oakhaven Software,New,amelia.hart@northbeam.example,Director of Operations,Ireland
+Aoife,Quigley,aoife.quigley@cindervale-labs.fr,+33157227057,Cindervale Labs,New,lena.vogel@northbeam.example,Marketing Manager,France
+Ines,Iversen,ines.iversen@embervale-partners.fr,+33199111943,Embervale Partners,New,lena.vogel@northbeam.example,Analyst,France
+Grace,Hargreaves,grace.hargreaves@lanternby-energy.com,,Lanternby Energy,New,ethan.cole@northbeam.example,Director of Operations,United States
+Tobias,Moreau,tobias.moreau@ironbark-labs.ca,+16045550132,Ironbark Labs,New,maya.brooks@northbeam.example,Operations Manager,Canada
+Nora,Whitfield,nora.whitfield@fernhollow-advisory.com.au,+61297465593,Fernhollow Advisory Pty Ltd,New,amelia.hart@northbeam.example,Operations Manager,Australia
+Maeve,Winterbottom,maeve.winterbottom@wrenford-health.co.uk,+447700900921,Wrenford Health Limited,New,owen.price@northbeam.example,Analyst,United Kingdom
+Leila,Ramsay,leila.ramsay@mossgate-health.ca,+16045550136,Mossgate Health Inc,New,sofia.reyes@northbeam.example,Analyst,Canada
+Hugo,Yilmaz,hugo.yilmaz@hazelmere-analytics.co.uk,+447700900292,Hazelmere Analytics,New,owen.price@northbeam.example,Chief Financial Officer,United Kingdom
+Esme,Oyelaran,esme.oyelaran@kestrelmoor-labs.at,,Kestrelmoor Labs,New,lena.vogel@northbeam.example,Student,Austria
+Sven,Rasmussen,sven.rasmussen@rookhurst-health.co.uk,+447700900047,Rookhurst Health,New,amelia.hart@northbeam.example,Marketing Manager,United Kingdom
+Dmitri,Jablonski,dmitri.jablonski@quillfield-engineering.ca,+14165550138,Quillfield Engineering Ltd,New,maya.brooks@northbeam.example,Operations Manager,Canada
+Felix,Jablonski,felix.jablonski@larkspire-robotics.at,+4319237056,Larkspire Robotics,New,jonas.keller@northbeam.example,Procurement Specialist,Austria
+Saoirse,Van der Berg,saoirse.vanderberg@lanternby-foods.co.uk,+447700900192,Lanternby Foods PLC,New,owen.price@northbeam.example,Marketing Manager,United Kingdom
+Maeve,Vasquez,maeve.vasquez@ashgrove-software.co.uk,+447700900031,Ashgrove Software,New,amelia.hart@northbeam.example,Operations Manager,United Kingdom
+Niamh,Grunewald,niamh.grunewald@hazelmere-logistics.ca,+16045550163,Hazelmere Logistics,New,ethan.cole@northbeam.example,Consultant,Canada
+Olivia,Ashworth,olivia.ashworth@larkspire-robotics.at,+4315413329,Larkspire Robotics GmbH,New,jonas.keller@northbeam.example,Chief Financial Officer,Austria
+Zara,Hargreaves,zara.hargreaves@ironbark-media.ca,+16045550191,Ironbark Media,New,maya.brooks@northbeam.example,CEO,Canada
+Ines,Takahashi,ines.takahashi@lanternby-energy.com,+14155550145,Lanternby Energy,New,ethan.cole@northbeam.example,Consultant,United States
+Amara,Ashworth,amara.ashworth@hazelmere-engineering.co.uk,+447700900133,Hazelmere Engineering,New,owen.price@northbeam.example,Analyst,United Kingdom
+Freya,Prescott,freya.prescott@juniperhill-energy.co.uk,,Juniperhill Energy,New,owen.price@northbeam.example,VP Marketing,United Kingdom
+Chloe,Quigley,chloe.quigley@hazelmere-engineering.co.uk,+447700900515,Hazelmere Engineering Limited,New,owen.price@northbeam.example,Operations Manager,United Kingdom
+Hannah,Yilmaz,hannah.yilmaz@tidewell-media.at,+4313470749,Tidewell Media,New,lena.vogel@northbeam.example,Consultant,Austria
+Ethan,Castellano,ethan.castellano@pebblewick-labs.com,+16465550157,Pebblewick Labs,New,ethan.cole@northbeam.example,Team Lead,United States
+Ines,Schreiber,ines.schreiber@fernhollow-robotics.com.au,+61229371541,Fernhollow Robotics,New,lena.vogel@northbeam.example,Operations Manager,Australia
+Daniel,Fairbairn,daniel.fairbairn@mossgate-health.ca,+16045550192,Mossgate Health,New,sofia.reyes@northbeam.example,Operations Manager,Canada
+Noah,Ellison,noah.ellison@embervale-partners.fr,+33156452366,Embervale Partners,New,lena.vogel@northbeam.example,Analyst,France
+Chloe,Van der Berg,chloe.vanderberg@nettlecombe-logistics.de,+493050196766,Nettlecombe Logistics,New,lena.vogel@northbeam.example,Head of Sales,Germany
+Leila,Jablonski,leila.jablonski@quillfield-engineering.ca,,Quillfield Engineering Ltd,New,maya.brooks@northbeam.example,Engineer,Canada
+Olivia,Thornbury,olivia.thornbury@yarrowdale-health.ch,+41443855686,Yarrowdale Health,New,lena.vogel@northbeam.example,Team Lead,Switzerland
+Hugo,Carvalho,hugo.carvalho@hazelmere-partners.com.au,+61257232215,Hazelmere Partners,New,amelia.hart@northbeam.example,CEO,Australia
+Yuki,Carvalho,yuki.carvalho@wrenford-analytics.ca,+14165550197,Wrenford Analytics,New,ethan.cole@northbeam.example,Marketing Manager,Canada
+Marcus,Quigley,marcus.quigley@kilnworth-partners.ca,+15145550129,Kilnworth Partners Inc,New,sofia.reyes@northbeam.example,Student,Canada
+Ines,Takahashi,ines.takahashi@fernhollow-energy.co.uk,+447700900935,Fernhollow Energy PLC,New,owen.price@northbeam.example,Operations Manager,United Kingdom
+Viktor,Carvalho,viktor.carvalho@juniperhill-engineering.com,+16175550176,Juniperhill Engineering,New,sofia.reyes@northbeam.example,Analyst,United States
+Niamh,Donnelly,niamh.donnelly@duskmoor-logistics.de,+493017033593,Duskmoor Logistics,New,jonas.keller@northbeam.example,Marketing Manager,Germany
+Maeve,O'Donnell,maeve.odonnell@fernhollow-robotics.com.au,+61267421366,Fernhollow Robotics,New,lena.vogel@northbeam.example,Analyst,Australia

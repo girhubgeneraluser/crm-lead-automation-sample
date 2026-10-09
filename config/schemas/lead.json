@@ -1,0 +1,19 @@
+{
+  "$comment": "Canonical lead after source adapters, before normalisation. Applied to every source.",
+  "type": "object",
+  "required": ["email"],
+  "properties": {
+    "email": {"type": "string", "minLength": 1, "maxLength": 254},
+    "first_name": {"type": ["string", "null"]},
+    "last_name": {"type": ["string", "null"]},
+    "phone": {"type": ["string", "null"]},
+    "company": {"type": ["string", "null"]},
+    "job_title": {"type": ["string", "null"]},
+    "country": {"type": ["string", "null"]},
+    "company_size": {"type": ["integer", "string", "null"]},
+    "budget": {"type": ["string", "null"]},
+    "timeline": {"type": ["string", "null"]},
+    "form": {"type": ["string", "null"]},
+    "submitted_at": {"type": ["string", "null"]}
+  }
+}

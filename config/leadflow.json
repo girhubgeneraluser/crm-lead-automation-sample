@@ -1,0 +1,64 @@
+{
+  "_comment": "Sample project - synthetic data, not client work. All tunables live here; no code change needed to adjust scoring or routing.",
+  "webhook": {
+    "max_body_bytes": 65536,
+    "timestamp_tolerance_seconds": 300,
+    "signature_header": "X-Leadflow-Signature",
+    "timestamp_header": "X-Leadflow-Timestamp"
+  },
+  "normalisation": {
+    "default_country": null,
+    "freemail_domains": [
+      "gmail.com", "googlemail.com", "outlook.com", "hotmail.com", "hotmail.co.uk", "live.com",
+      "yahoo.com", "yahoo.co.uk", "icloud.com", "me.com", "aol.com", "gmx.de", "gmx.net",
+      "web.de", "proton.me", "protonmail.com", "mail.com", "btinternet.com"
+    ]
+  },
+  "dedupe": {
+    "name_similarity_threshold": 0.88,
+    "email_local_similarity_threshold": 0.85
+  },
+  "scoring": {
+    "thresholds": {"hot": 70, "warm": 40},
+    "rules": [
+      {"id": "corporate_email", "field": "email_type", "op": "eq", "value": "corporate", "points": 15},
+      {"id": "freemail_penalty", "field": "email_type", "op": "eq", "value": "freemail", "points": -10},
+      {"id": "senior_title", "field": "job_title", "op": "contains_any",
+       "value": ["ceo", "cfo", "coo", "cto", "chief", "founder", "owner", "director", "head of", "vp", "vice president", "partner"],
+       "points": 25},
+      {"id": "manager_title", "field": "job_title", "op": "contains_any", "value": ["manager", "lead"], "points": 10},
+      {"id": "company_200_plus", "field": "company_size", "op": "gte", "value": 200, "points": 20},
+      {"id": "company_50_199", "field": "company_size", "op": "between", "value": [50, 199], "points": 12},
+      {"id": "budget_20k_plus", "field": "budget", "op": "in", "value": ["20k-50k", "50k+"], "points": 15},
+      {"id": "timeline_now", "field": "timeline", "op": "in", "value": ["asap", "this quarter"], "points": 15},
+      {"id": "demo_request", "field": "form", "op": "eq", "value": "demo_request", "points": 10},
+      {"id": "valid_phone", "field": "phone_valid", "op": "eq", "value": true, "points": 5},
+      {"id": "multi_touch", "field": "touch_count", "op": "gte", "value": 2, "points": 10}
+    ]
+  },
+  "routing": {
+    "account_stickiness": true,
+    "territories": [
+      {"name": "UK & Ireland", "countries": ["GB", "IE"], "reps": ["amelia.hart@northbeam.example", "owen.price@northbeam.example"]},
+      {"name": "DACH", "countries": ["DE", "AT", "CH"], "reps": ["lena.vogel@northbeam.example", "jonas.keller@northbeam.example"]},
+      {"name": "North America", "countries": ["US", "CA"], "reps": ["maya.brooks@northbeam.example", "ethan.cole@northbeam.example", "sofia.reyes@northbeam.example"]}
+    ],
+    "default_territory": {"name": "Rest of World", "reps": ["amelia.hart@northbeam.example", "lena.vogel@northbeam.example", "maya.brooks@northbeam.example"]},
+    "reps": {
+      "amelia.hart@northbeam.example": {"name": "Amelia Hart", "slack_id": "U0SAMPLE01", "active": true},
+      "owen.price@northbeam.example": {"name": "Owen Price", "slack_id": "U0SAMPLE02", "active": true},
+      "lena.vogel@northbeam.example": {"name": "Lena Vogel", "slack_id": "U0SAMPLE03", "active": true},
+      "jonas.keller@northbeam.example": {"name": "Jonas Keller", "slack_id": "U0SAMPLE04", "active": true},
+      "maya.brooks@northbeam.example": {"name": "Maya Brooks", "slack_id": "U0SAMPLE05", "active": true},
+      "ethan.cole@northbeam.example": {"name": "Ethan Cole", "slack_id": "U0SAMPLE06", "active": true},
+      "sofia.reyes@northbeam.example": {"name": "Sofia Reyes", "slack_id": "U0SAMPLE07", "active": true}
+    }
+  },
+  "hubspot": {
+    "columns": ["First Name", "Last Name", "Email", "Phone Number", "Company Name", "Lead Status", "Contact owner", "Job Title", "Country/Region"],
+    "lead_status_by_tier": {"hot": "Open", "warm": "New", "cold": "New"}
+  },
+  "slack": {
+    "channel": "#sales-hot-leads"
+  }
+}

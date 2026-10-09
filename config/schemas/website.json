@@ -1,0 +1,27 @@
+{
+  "$comment": "Website contact/demo form webhook. Sample project - synthetic.",
+  "type": "object",
+  "required": ["event_id", "submitted_at", "form", "lead"],
+  "additionalProperties": false,
+  "properties": {
+    "event_id": {"type": "string", "minLength": 8, "maxLength": 128, "pattern": "^[A-Za-z0-9_.:-]+$"},
+    "submitted_at": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?(Z|[+-]\\d{2}:\\d{2})$"},
+    "form": {"type": "string", "enum": ["contact", "demo_request", "newsletter"]},
+    "lead": {
+      "type": "object",
+      "required": ["email"],
+      "additionalProperties": false,
+      "properties": {
+        "first_name": {"type": ["string", "null"], "maxLength": 100},
+        "last_name": {"type": ["string", "null"], "maxLength": 100},
+        "email": {"type": "string", "minLength": 1, "maxLength": 254},
+        "phone": {"type": ["string", "null"], "maxLength": 40},
+        "company": {"type": ["string", "null"], "maxLength": 200},
+        "job_title": {"type": ["string", "null"], "maxLength": 150},
+        "country": {"type": ["string", "null"], "maxLength": 60},
+        "company_size": {"type": ["integer", "null"], "minimum": 1, "maximum": 1000000},
+        "message": {"type": ["string", "null"], "maxLength": 4000}
+      }
+    }
+  }
+}

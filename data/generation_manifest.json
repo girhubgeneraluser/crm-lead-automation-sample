@@ -1,0 +1,16 @@
+{
+  "cross_source_email_duplicates": 25,
+  "csv_bad_emails": 6,
+  "csv_corrupt_rows": 2,
+  "csv_exact_duplicates": 6,
+  "csv_rows": 114,
+  "fuzzy_duplicates": 10,
+  "note": "Sample project - synthetic data, not client work",
+  "people": 230,
+  "seed": 20260917,
+  "total_inbound_records": 294,
+  "webhook_broken": 7,
+  "webhook_deliveries": 180,
+  "webhook_ok": 169,
+  "webhook_replays": 4
+}
